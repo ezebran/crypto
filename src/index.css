@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container, .conection-container{
+    max-width: 1180px;
+    margin: auto;
+}
+@media (max-width:768px){
+    .container{
+        padding: 0 20px;
+    }
+    .conection-container{
+        padding:0px;
+        max-width: none;
+    }
+}
+.btn {
+    background-color: #1a1a1c;
+    border-radius: 8px;
+    color:white;
+}
+
+.btn-regular {
+    padding: 18px 25px 19px;
+}
+
+.btn-small {
+    padding: 11px 15px 12px;
+}
+
+.rectangle{
+    width: 295px;
+    height: 639px;
+}
+
+.active-item{
+    font-weight: 500;
+    color: #1A1A1C;
+    border-bottom: 2px solid #1A1A1C;
+}
+
+.asset{
+    box-shadow: 0px 1px 4px rgb(0 0 0 / 15%);
+    width:300px;
+    height:105px;
+}
+@media (max-width:768px){
+    .asset{
+        width: 49%;
+    }
+}
+@media (max-width:540px){
+    .asset{
+        width: 100%;
+    }
+}
+.check-icon{
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 0.13em 0.22em;
+}
+
+.facebook-icon{
+    padding: 0.75em 0.938em;
+    border-radius: 100%;
+}
+
+.twitter-icon{
+    padding: 0.75em;
+    border-radius: 100%;
+}
+
+.telegram-icon{
+    font-size:40px;
+}
+
+/* HAMBURGER MENU */
+
+@media (max-width:767px){
+    #menu{
+        top:113px;
+    }
+}
+
+.hamburger {
+    cursor: pointer;
+    width: 48px;
+    height: 48px;
+    transition: all 0.25s;
+  }
+  
+  .hamburger__top-bun,
+  .hamburger__bottom-bun {
+    content: '';
+    position: absolute;
+    width: 24px;
+    height: 2px;
+    background: #000;
+    transform: rotate(0);
+    transition: all 0.5s;
+  }
+  
+  .hamburger:hover [class*="-bun"] {
+    background: #333;
+  }
+  
+  .hamburger__top-bun {
+    transform: translateY(-5px);
+  }
+  
+  .hamburger__bottom-bun {
+    transform: translateY(3px);
+  }
+  
+  .open {
+    transform: rotate(90deg);
+    transform: translateY(-1px);
+  }
+  
+  .open .hamburger__top-bun {
+    transform:
+      rotate(45deg)
+      translateY(0px);
+  }
+  
+  .open .hamburger__bottom-bun {
+    transform:
+      rotate(-45deg)
+      translateY(0px);
+  }

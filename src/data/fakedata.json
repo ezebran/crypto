@@ -1,0 +1,168 @@
+{
+  "tabs": [
+    {
+      "title": "Leader",
+      "data": [
+        {
+          "title": "Yearn Classic Finance",
+          "price": "20.19",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Decentraland",
+          "price": "3.12",
+          "percent": "27.1",
+          "src": "/cryptos/decen.svg"
+        },
+        {
+          "title": "SHIBA INU",
+          "price": "0.00005225",
+          "percent": "21.4",
+          "src": "/cryptos/shibu.svg"
+        },
+        {
+          "title": "Avalanch",
+          "price": "83.31",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Internet Computer",
+          "price": "22.3",
+          "percent": "109.3",
+          "src": "/cryptos/internet.svg"
+        },
+        {
+          "title": "Cosmos",
+          "price": "12.0",
+          "percent": "12.0",
+          "src": "/cryptos/cosmos.svg"
+        }
+      ]
+    },
+    {
+      "title": "Stocks",
+      "data": [
+        {
+          "title": "Test",
+          "price": "20.19",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "dsafasdf",
+          "price": "3.12",
+          "percent": "27.1",
+          "src": "/cryptos/decen.svg"
+        },
+        {
+          "title": "SHIBA IN3324",
+          "price": "0.00005225",
+          "percent": "21.4",
+          "src": "/cryptos/shibu.svg"
+        },
+        {
+          "title": "Avala55gnch",
+          "price": "83.31",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Intern432et Computer",
+          "price": "22.3",
+          "percent": "109.3",
+          "src": "/cryptos/internet.svg"
+        },
+        {
+          "title": "Cosffsmos",
+          "price": "12.0",
+          "percent": "12.0",
+          "src": "/cryptos/cosmos.svg"
+        }
+      ]
+    },
+    {
+      "title": "Crypto",
+      "data": [
+        {
+          "title": "Yecvfarn Classic Finance",
+          "price": "20.f19",
+          "percent": "109fg.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Decfgfdentraland",
+          "price": "3.1v2",
+          "percent": "27fg.1",
+          "src": "/cryptos/decen.svg"
+        },
+        {
+          "title": "SH34rIBA INU",
+          "price": "0.00005225",
+          "percent": "21.4",
+          "src": "/cryptos/shibu.svg"
+        },
+        {
+          "title": "Avaldfanch",
+          "price": "83.df31",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Intern44et Computer",
+          "price": "22f.3",
+          "percent": "109.fg3",
+          "src": "/cryptos/internet.svg"
+        },
+        {
+          "title": "Cosg43mos",
+          "price": "1g2.0",
+          "percent": "12.0",
+          "src": "/cryptos/cosmos.svg"
+        }
+      ]
+    },
+    {
+      "title": "Options (Coming Soon)",
+      "data": [
+        {
+          "title": "Yearn Classic Finance",
+          "price": "20.19",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Decentraland",
+          "price": "3.12",
+          "percent": "27.1",
+          "src": "/cryptos/decen.svg"
+        },
+        {
+          "title": "SHIBA INU",
+          "price": "0.00005225",
+          "percent": "21.4",
+          "src": "/cryptos/shibu.svg"
+        },
+        {
+          "title": "Avalanch",
+          "price": "83.31",
+          "percent": "109.3",
+          "src": "/cryptos/yfc.svg"
+        },
+        {
+          "title": "Internet Computer",
+          "price": "22.3",
+          "percent": "109.3",
+          "src": "/cryptos/internet.svg"
+        },
+        {
+          "title": "Cosmos",
+          "price": "12.0",
+          "percent": "12.0",
+          "src": "/cryptos/cosmos.svg"
+        }
+      ]
+    }
+  ]
+}
